@@ -56,18 +56,37 @@ I enjoy building secure, reliable and production-grade systems.
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
 
-## 📚 Education
-🎓 MSc in Computer Science — BUET (Ongoing)  
-🎓 BSc in Computer Science — MIST  
+---
+
+## 🌱 Cool Things I've Worked With
+
+- ⚡ Message queues using [Redis](https://redis.io/) and background workers with [Celery](https://docs.celeryq.dev/)
+- 🔐 Microservice communication using REST, API versioning & secure authentication
+- 🚀 High-performance APIs using [Django REST Framework](https://www.django-rest-framework.org/) and [FastAPI](https://fastapi.tiangolo.com/)
+- 🧠 AI-powered systems & deep learning research (CNN + Vision Transformers)
+- ☁️ Cloud deployments on [Google Cloud Platform](https://cloud.google.com/)
+- 🔄 CI/CD automation using [GitHub Actions](https://github.com/features/actions)
+- 🗄 Query optimization & performance tuning in [PostgreSQL](https://www.postgresql.org/)
+- 🏗 Designing scalable backend architectures & modular systems
+- 🔒 Secure authentication systems & admin dashboards
+- 📦 Containerized deployments using [Docker](https://www.docker.com/)
 
 ---
 
-## 📄 Publication
+## 🚀 Featured Work
 
-🧠 *CNN-ViT Synergy: Efficient Android Malware Detection through Deep Learning*  
-(First Author)
+### 🧑‍💻 [SearchProgrammer – Developer Portfolio Platform](https://portfolio.nextgenint.net/)
+Built using Django & PostgreSQL. A scalable portfolio system showcasing developer profiles and projects with secure authentication and email verification.
 
 ---
+
+### 🛒 [E-Commerce Platform](https://fantastic-griffin-194e94.netlify.app/)
+Built with React, Redux & Firebase. Implements authentication, cart management & real-time updates.
+
+---
+
+### 🧠 [CNN-ViT Synergy: Efficient Android Malware Detection through Deep Learning](https://www.sciencedirect.com/science/article/abs/pii/S0045790624009649)
+Proposed a hybrid CNN + Vision Transformer architecture for improved Android malware detection.
 
 ## 📊 GitHub Stats
 
@@ -82,10 +101,9 @@ I enjoy building secure, reliable and production-grade systems.
 
 📧 shadman.wasif@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shadman-wasif)  
-🌐 GitHub: https://github.com/shadman17  
 
 ---
 
 <p align="center">
-  <i>"Building reliable systems today for a scalable tomorrow."</i>
+  <i>"I don't believe AI will take my job"</i>
 </p>
