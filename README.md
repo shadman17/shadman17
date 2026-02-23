@@ -85,18 +85,39 @@ I have worked on several projects over the years, experimented with both fronten
 
 ## 🚀 Live Projects
 
-### 🧑‍💻 [![SearchProgrammer – Portfolio Platform](https://img.shields.io/badge/SearchProgrammer-Portfolio-1f6feb?style=for-the-badge)](https://portfolio.nextgenint.net/)
+### [![SearchProgrammer – Portfolio Platform](https://img.shields.io/badge/SearchProgrammer-Portfolio-1f6feb?style=for-the-badge)](https://portfolio.nextgenint.net/)
 Built using Django & PostgreSQL. A scalable portfolio system showcasing developer profiles with secure authentication and email verification.
 
-### 🛒 [![E-Commerce Platform](https://img.shields.io/badge/E--Commerce-React_App-ff6b6b?style=for-the-badge)](https://fantastic-griffin-194e94.netlify.app/)
+### [![E-Commerce Platform](https://img.shields.io/badge/E--Commerce-React_App-ff6b6b?style=for-the-badge)](https://fantastic-griffin-194e94.netlify.app/)
 Built with React, Redux & Firebase. Implements authentication, cart management, and real-time updates.
 
 ---
 
 ## 📚 Publications
 
-### 🧠 [![CNN-ViT Synergy – Research Paper](https://img.shields.io/badge/CNN--ViT-Research_Paper-6f42c1?style=for-the-badge)](https://www.sciencedirect.com/science/article/abs/pii/S0045790624009649)
+### [![CNN-ViT Synergy – Research Paper](https://img.shields.io/badge/CNN--ViT-Research_Paper-6f42c1?style=for-the-badge)](https://www.sciencedirect.com/science/article/abs/pii/S0045790624009649)
 Proposed a hybrid CNN + Vision Transformer architecture for improved Android malware detection.
+
+---
+
+---
+
+## Live Projects
+
+[![SearchProgrammer](https://img.shields.io/badge/SearchProgrammer-Developer_Portfolio_Platform-1f6feb?style=for-the-badge)](https://portfolio.nextgenint.net/)
+Built using Django & PostgreSQL. A scalable portfolio system showcasing developer profiles with secure authentication and email verification.
+
+---
+
+[![Shophere](https://img.shields.io/badge/Shophere-Ecommerce-ff6b6b?style=for-the-badge)](https://fantastic-griffin-194e94.netlify.app/)
+Built with React, Redux & Firebase. Implements authentication, cart management, and real-time updates.
+
+---
+
+## Publications
+
+[![CNN-ViT Synergy](https://img.shields.io/badge/CNN--ViT_Synergy-Research_Paper-6f42c1?style=for-the-badge)](https://www.sciencedirect.com/science/article/abs/pii/S0045790624009649)
+CNN-ViT synergy: An efficient Android malware detection approach through deep learning.
 
 ---
 
