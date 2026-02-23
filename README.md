@@ -7,14 +7,11 @@
 
 ---
 
-## 👨‍💻 About Me
+Hi there 👋
 
-- 🇧🇩 Based in Dhaka, Bangladesh  
-- 🧠 6+ years of experience in Software Engineering  
-- 🏗 Specialized in Django, DRF, React & System Design  
-- ☁️ Experienced in Google Cloud & CI/CD automation  
-- 🤖 Exploring Agentic AI systems and modern backend architectures  
-- 🔐 Passionate about clean architecture, performance & reliability  
+I am Shadman Wasif, currently working as a Senior Software Engineer at Nextgen Intelligent Solutions Ltd. I have 6+ years of experience building scalable backend systems, high-performance APIs, and modern web applications. My core expertise lies in Django, Django REST Framework, React, and system design, with hands-on experience in Google Cloud deployments and Github CI/CD automation. I completed my undergrad on Computer Science & Engineering from [MIST](https://mist.ac.bd/) and currently pursuing my masters in [BUET](https://www.buet.ac.bd/). Apart from technology, I am quite invested in watching and playing football, movies and series and travelling.
+
+💡 *I'm open to new opportunities in backend engineering, distributed systems, and scalable architecture design.*
 
 ---
 
