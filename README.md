@@ -1,8 +1,8 @@
 <h1 align="center">~ Hello there! I'm Shadman Wasif ~</h1>
 
 <p align="center">
-  <b>Senior Software Engineer | Django & System Design Enthusiast</b><br>
-  Building scalable systems, secure APIs & modern web applications 🚀
+  <b>Senior Software Engineer</b><br>
+  Building scalable systems, secure APIs & modern web applications
 </p>
 
 ---
@@ -20,20 +20,50 @@
 
 ## 🛠 Tech Stack
 
+## 🧑‍💻 My Tech!
+
+I've worked on scalable backend systems, high-performance APIs, cloud deployments and modern frontend apps.  
+I enjoy building secure, reliable and production-grade systems.
+
 ### 💻 Languages
-`Python` `JavaScript` `TypeScript` `C` `C++`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
 
 ### ⚙️ Backend
-`Django` `Django REST Framework` `Flask` `NodeJS` `Express`
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+---
 
 ### 🎨 Frontend
-`React` `Redux` `Material UI` `Bootstrap`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
 
 ### 🗄 Databases
-`PostgreSQL` `MySQL` `SQLite` `MongoDB` `Redis`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ DevOps & Tools
-`Docker` `Git` `GitHub Actions` `Celery` `Google Cloud Platform`
+---
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
 
 ---
 
