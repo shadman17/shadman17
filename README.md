@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 My Tech!
+## 🛠 My Tech!
 
 I've worked on scalable backend systems, high-performance APIs, cloud deployments and modern frontend apps.  
 I enjoy building secure, reliable and production-grade systems.
