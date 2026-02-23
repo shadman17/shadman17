@@ -82,17 +82,20 @@ I have worked on several projects over the years, experimented with both fronten
 - Strengthened algorithmic problem-solving skills on [LeetCode](https://leetcode.com/)
 
 ---
-## 🚀 Live Projects & Publications
 
-### 🧑‍💻 [SearchProgrammer – Developer Portfolio Platform](https://portfolio.nextgenint.net/)
-Built using Django & PostgreSQL. A scalable portfolio system showcasing developer profiles and projects with secure authentication and email verification.
+## 🚀 Live Projects
 
+### 🧑‍💻 [![SearchProgrammer – Portfolio Platform](https://img.shields.io/badge/SearchProgrammer-Portfolio-1f6feb?style=for-the-badge)](https://portfolio.nextgenint.net/)
+Built using Django & PostgreSQL. A scalable portfolio system showcasing developer profiles with secure authentication and email verification.
 
-### 🛒 [E-Commerce Platform](https://fantastic-griffin-194e94.netlify.app/)
-Built with React, Redux & Firebase. Implements authentication, cart management & real-time updates.
+### 🛒 [![E-Commerce Platform](https://img.shields.io/badge/E--Commerce-React_App-ff6b6b?style=for-the-badge)](https://fantastic-griffin-194e94.netlify.app/)
+Built with React, Redux & Firebase. Implements authentication, cart management, and real-time updates.
 
+---
 
-### 🧠 [CNN-ViT Synergy: Efficient Android Malware Detection through Deep Learning](https://www.sciencedirect.com/science/article/abs/pii/S0045790624009649)
+## 📚 Publications
+
+### 🧠 [![CNN-ViT Synergy – Research Paper](https://img.shields.io/badge/CNN--ViT-Research_Paper-6f42c1?style=for-the-badge)](https://www.sciencedirect.com/science/article/abs/pii/S0045790624009649)
 Proposed a hybrid CNN + Vision Transformer architecture for improved Android malware detection.
 
 ---
