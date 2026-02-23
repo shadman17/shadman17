@@ -1,11 +1,8 @@
 <h1 align="center">~ Hello there! I'm Shadman Wasif ~</h1>
-<p align="center">
-  <i>"I don't believe AI will take my job"</i>
-</p>
 
 I am Shadman Wasif, currently working as a Senior Software Engineer at Nextgen Intelligent Solutions Ltd. I have 6+ years of experience building scalable backend systems, high-performance APIs, and modern web applications. My core expertise lies in Django, Django REST Framework, React, and system design, with hands-on experience in Google Cloud deployments and GitHub-based CI/CD automation. I completed my undergrad on Computer Science & Engineering from [MIST](https://mist.ac.bd/) and currently pursuing my masters in [BUET](https://www.buet.ac.bd/). Apart from technology, I am quite invested in watching and playing football, watching movies and series, reading books, and travelling.
 
-💡 *I'm open to new opportunities in backend engineering, scalable architecture design and agentic AI.*
+💡 *I'm open to new opportunities in backend engineering, scalable systems and agentic AI.*
 
 ---
 
@@ -58,26 +55,15 @@ I have worked on several projects over the years, experimented with both fronten
 - Strengthened algorithmic problem-solving skills on [LeetCode](https://leetcode.com/)
 
 ---
-
 ## 🚀 Live Projects & Publications
-
-[![SearchProgrammer](https://img.shields.io/badge/SearchProgrammer-Portfolio-1f6feb?style=for-the-badge)](https://portfolio.nextgenint.net/)
-[![E-Commerce](https://img.shields.io/badge/E--Commerce-React_App-ff6b6b?style=for-the-badge)](https://fantastic-griffin-194e94.netlify.app/)
-[![CNN-ViT Research](https://img.shields.io/badge/CNN--ViT-Research_Paper-6f42c1?style=for-the-badge)](https://www.sciencedirect.com/science/article/abs/pii/S0045790624009649)
-
-
----
-## 🚀 Featured Work
 
 ### 🧑‍💻 [SearchProgrammer – Developer Portfolio Platform](https://portfolio.nextgenint.net/)
 Built using Django & PostgreSQL. A scalable portfolio system showcasing developer profiles and projects with secure authentication and email verification.
 
----
 
 ### 🛒 [E-Commerce Platform](https://fantastic-griffin-194e94.netlify.app/)
 Built with React, Redux & Firebase. Implements authentication, cart management & real-time updates.
 
----
 
 ### 🧠 [CNN-ViT Synergy: Efficient Android Malware Detection through Deep Learning](https://www.sciencedirect.com/science/article/abs/pii/S0045790624009649)
 Proposed a hybrid CNN + Vision Transformer architecture for improved Android malware detection.
@@ -96,8 +82,8 @@ Proposed a hybrid CNN + Vision Transformer architecture for improved Android mal
     height="165"
   />
 </p>
----
-<p align="center">
-  <i>You can connect with me via 📧 [email](mailto:shadman.wasif@gmail.com) and 🔗 [LinkedIn](https://www.linkedin.com/in/shadman-wasif). </i>
-</p>
 
+---
+
+> You can reach me at 📧 [shadman.wasif@gmail.com](mailto:shadman.wasif@gmail.com)  
+> Or connect via 🔗 [LinkedIn](https://www.linkedin.com/in/shadman-wasif)  
