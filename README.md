@@ -18,8 +18,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
 ## 🧑‍💻 My Tech!
 
 I've worked on scalable backend systems, high-performance APIs, cloud deployments and modern frontend apps.  
@@ -32,16 +30,13 @@ I enjoy building secure, reliable and production-grade systems.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
-
 ### ⚙️ Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,15 +44,11 @@ I enjoy building secure, reliable and production-grade systems.
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
-
 ### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge&logo=redis&logoColor=white)
-
----
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -65,41 +56,7 @@ I enjoy building secure, reliable and production-grade systems.
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
 
----
-
-## 🚀 What I Do
-
-- Design scalable backend systems  
-- Build high-performance REST APIs  
-- Implement secure authentication & dashboards  
-- Optimize database queries & system performance  
-- Architect microservices & CI/CD pipelines  
-
----
-
-## 🏢 Professional Experience
-
-### 🏛 Senior Software Engineer  
-**Nextgen Intelligent Solutions Ltd.**  
-_Jun 2024 – Present_
-
-- Built scalable full-stack systems using Django & React  
-- Engineered secure REST APIs with PostgreSQL  
-- Designed CI/CD pipelines using GitHub Actions  
-- Delivered secure military-grade backend dashboards  
-
-### 🛡 Assistant Programmer  
-**Ministry of Defense Project, Bangladesh**  
-_Jan 2018 – Jun 2025_
-
-- Led full-stack SPA development  
-- Automated workflows reducing manual effort by 30%  
-- Contributed to system architecture & integration  
-
----
-
 ## 📚 Education
-
 🎓 MSc in Computer Science — BUET (Ongoing)  
 🎓 BSc in Computer Science — MIST  
 
