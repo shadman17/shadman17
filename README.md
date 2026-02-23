@@ -95,11 +95,15 @@ Proposed a hybrid CNN + Vision Transformer architecture for improved Android mal
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shadman17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadman17&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=shadman17&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shadman17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=shadman17&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
